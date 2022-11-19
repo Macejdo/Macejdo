@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there 👋
+
+- 🔭 I’m currently working on Discord.py multifunctional bot
+- 🌱 I’m currently learning C language
+- 💬 Ask me about anything
+
+
+
 
 <!--
 **Macejdo/Macejdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
