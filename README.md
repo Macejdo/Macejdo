@@ -1,5 +1,5 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Discord.py multifunctional bot
-- 🌱 I’m currently learning C language
+- 🔭 I’m currently studying at Uni
+- 🌱 I’m currently learning about cybersecurity
 - 💬 Ask me about anything
